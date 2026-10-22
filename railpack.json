@@ -1,0 +1,10 @@
+{
+  "$schema": "https://schema.railpack.com",
+  "build": {
+    "providers": {
+      "php": {
+        "version": "8.4"
+      }
+    }
+  }
+}
